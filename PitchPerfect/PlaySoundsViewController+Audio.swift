@@ -155,7 +155,7 @@ extension PlaySoundsViewController: AVAudioPlayerDelegate {
     }
     
     /// Function accept a boolean parameter for whether the app state is recording.
-    /// - Parameter enabled:  if playing true if doesn't false
+    /// - Parameter enabled: playing can be true or false if doesn't play
     func setPlayButtonsEnabled(_ enabled: Bool) {
         snailButton.isEnabled = enabled
         chipmunkButton.isEnabled = enabled
