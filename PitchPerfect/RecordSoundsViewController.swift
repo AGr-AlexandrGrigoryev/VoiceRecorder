@@ -95,7 +95,7 @@ class RecordSoundsViewController: UIViewController, AVAudioRecorderDelegate {
         } else { recordingLabel.text = "recording was not successful"}
     }
     
-    /*try to understand this later !!!!!!!!!! it's very important */
+   
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == secondVC {
             let playSoundVC = segue.destination as! PlaySoundsViewController
