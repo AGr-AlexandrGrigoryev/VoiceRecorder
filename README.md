@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
 * You have installed the latest version of `Xcode`
 * You have a `Mac` machine. 
-* iOS version  `13` 
+* iPhone Requires iOS `13.0` or later   
 
 
 ## Installing <Pitch Perfect>
