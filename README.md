@@ -7,9 +7,11 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/AlexCZ-RUS/VoiceRecorder?style=social)
 
 
-Application records a user’s voice, then plays the modulated audio through a variety of fun filters.
+**Application records a user’s voice, then plays the modulated audio through a variety of fun filters.**
 
-Builded with Swift and Xcode, Apple’s programming environment for app development. Used AutoLayout, UIButtons, and UILabels to create an interface, and how to react to touch events in an app using ViewController and multiple views. Developed audio recording and playback in a voice recording app.
+- Builded with Swift and Xcode, Apple’s programming environment for app development. Used AutoLayout, UIButtons, and UILabels, UIImageView to create an interface, and how to react to touch events in an app using ViewController and multiple views. Developed audio recording and playback in a voice recording app.
+
+- **Frameworks**: UIKit, AVFoundation
 
 ![Group 20](https://user-images.githubusercontent.com/37674802/117974503-ea419980-b32d-11eb-905a-ef2edc160a42.png)
 
